@@ -1,7 +1,5 @@
 # Live Tracking System
 
-![Project Logo](project_logo.png)
-
 ## Overview
 
 The Live Tracking System is a Python-based project that enables the visualization of trip data, identification of over-speeding segments, and display on an interactive map. This README provides an overview of the project, its features, and how to get started.
