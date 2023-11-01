@@ -40,7 +40,7 @@ Before you begin, ensure you have met the following requirements:
 
 3. Generate the interactive map:
 
-  * Run the code to create the interactive map: python live_tracking_system.py
+   * Run the code to create the interactive map: python live_tracking_system.py
 
 4. View the map:
 
@@ -49,6 +49,6 @@ The interactive map will be saved as an HTML file named "Live_tracking_trip_syst
 ## Contributing
 Contributions are welcome! If you have ideas for improvements, bug fixes, or other enhancements, please open an issue or create a pull request.
 
-##Acknowledgments
+## Acknowledgments
    * Folium: For the interactive map library.
    * Pandas: For data manipulation and analysis.
